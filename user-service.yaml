@@ -1,6 +1,6 @@
 spring:
   datasource:
     url: jdbc:h2:tcp://localhost/~/msa
-    username: '{cipher}AQBHJS4U5gpakMl4eIRGaW32hpkw2YOyQeUk1cOOv2BQXvbOdujQop6Fq5MOOtHEtHyz0D1LXHuJt8alCSFdp55nOT6WzH+8lHoyuREvJMswKNJL6nT4lGuB4BWgulceTB0mpexmiGK4BQP/HQAUq5f9rONSG6S1hwMd7+lCEC1r/JCts8HQ4anxwUlJiiqdSDjQJEdrpLUl2tpoaF9d3SXyBtUwwftfoSwPWahy7o+fXAh97qH/Yqpwwb12ROfZ8E/sz8EhID6Mmd7G62VzdxCRIupnSjGEYqjfmGxCgnjtzI5IInrcgomTEdmKpQhS1Jb15FCgJSzCKCGsTPUyrDhNbJu4koF1urnUJvb4PslBuEDNNn4BJgWbLoTwgMmuL0Q='
+    username: '{cipher}af0d56faa8017c6b1df203203c4e392532311ba5bc15681fd7a1592090691206'
     password:
     driver-class-name: org.h2.Driver
