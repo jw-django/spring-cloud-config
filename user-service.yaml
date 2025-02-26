@@ -4,3 +4,6 @@ spring:
     username: '{cipher}af0d56faa8017c6b1df203203c4e392532311ba5bc15681fd7a1592090691206'
     password:
     driver-class-name: org.h2.Driver
+
+order_service:
+  url: http://127.0.0.1:8000/order-service/%s/orders
