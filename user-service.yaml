@@ -1,11 +1,7 @@
-spring:
-  datasource:
-    url: jdbc:h2:tcp://localhost/~/msa
-    username: '{cipher}AQA4wbV0uhpAIk2bgF2HRy9512/Ac8s79Rg999aLx2F/MOfXJk+adg2R6r39P2GoOQl/rnRNL7tzakvF9wshOL9ijxdodOz0fmknE29GcScmTz2gKRCjuzrlxLK54wJMH3LlmiWnLVXlyQ8ZM0LFJAbcT8g6im+8jQi1gCPiYJyQDGhx9AVKgYSVGH8xNYf6QLJRArml3Pw+ZmkPJZG5RSfoPVuRciO/wNjz6hNv0U/GycD2gZoLz8oqiBhFphcffoKIKvbcQ7wPymcdcKtap37tSKjUWYQaQuOtpkck8ErTg3WQ3aQEStY+EUVO5dYhfbAqwfIN/w/UwjDhAzUt8FBEWbFFc4Wr+t5QfLlPBmWq45sp9gL2TboMcNyhA++k0FY='
-    password:
-    driver-class-name: org.h2.Driver
-
 order_service:
   url: http://order-service/order-service/%s/orders
   exception:
     orders_is_empty: There is no item.
+
+gateway:
+  ip: 172.18.0.13
