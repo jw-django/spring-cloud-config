@@ -4,4 +4,4 @@ order_service:
     orders_is_empty: There is no item.
 
 gateway:
-  ip: 172.18.0.13
+  ip: 172.18.0.14
